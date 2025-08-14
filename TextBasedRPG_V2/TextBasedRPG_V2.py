@@ -140,4 +140,12 @@ CursorPrint(40 , cursorTitlePosition , "More updates coming!" , 0.05 , True)
 # FUTURE IDEAS
 # 1) ADD A NEW MONSTER... WHAT COULD IT BE? ;)
 # 2) RANDOMISE BATTLE ENCOUNTERS
-# 3) COMPILE MY GAME INTO AN EXE FILE
+
+# THINGS TO DO ASAP
+# 1) COMPILE MY GAME INTO AN EXE FILE
+# STEPS:
+# 1) OPEN CMD AND RUN "pip install pyinstaller"
+# 2) CD INTO FOLDER THAT THE GAME IS IN
+# 3) IF JUST TEXT: RUN "pyinstaller --onefile game.py"
+# 5) IF SOUND OR IMAGES:  RUN "pyinstaller --onefile --noconsole game.py" INSTEAD
+# 6) CHECK dist FOLDER IN GAME'S DIRECTORY: IT WILL CONTAIN THE EXE FILE
