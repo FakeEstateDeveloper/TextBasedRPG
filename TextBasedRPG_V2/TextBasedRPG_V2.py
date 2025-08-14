@@ -140,3 +140,4 @@ CursorPrint(40 , cursorTitlePosition , "More updates coming!" , 0.05 , True)
 # FUTURE IDEAS
 # 1) ADD A NEW MONSTER... WHAT COULD IT BE? ;)
 # 2) RANDOMISE BATTLE ENCOUNTERS
+# 3) COMPILE MY GAME INTO AN EXE FILE
