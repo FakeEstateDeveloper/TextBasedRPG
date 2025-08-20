@@ -1,0 +1,18 @@
+TODO LIST
+
+FUTURE IDEAS
+1) ADD A NEW MONSTER... WHAT COULD IT BE? ;)
+2) RANDOMISE BATTLE ENCOUNTERS
+3) COMMAND TO CENTER TEXT
+
+GOOFY IDEAS
+1) DINGEN STAFF THAT SHOOTS MORE DINGEN
+2) GOON MACHINE
+3) ...
+
+WHAT I CHANGED IN THIS VERSION (V3)
+1) Added the story expansion for killing a slime
+2) Added a TextColor class for different colored text
+3) Added a BaseWeaponClass for future weapons that I will add
+4) WEAPONS ADDED: Stick
+5) Added playerDamage += weaponDamage
